@@ -34,7 +34,7 @@ a:active,
 a:focus,
 a:hover {
   font-family: "Aileron";
-  color: #303030;
+  color: #f3ff49;
   text-decoration: none;
   -webkit-transition-duration: 500ms;
   transition-duration: 500ms;
