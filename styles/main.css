@@ -2150,6 +2150,20 @@ h3 {
   opacity: 0.3;
 }
 
+.breadcam_bg_1::before {
+  content: ' ';
+  background-image: url(../../../img/banner/christian-core-values.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0.3;
+}
+
 .breadcam_bg_1 {
   background-image: url(../img/banner/camp.png);
   background-repeat: no-repeat !important;
