@@ -1052,6 +1052,9 @@ h3 {
 .header-top_area {
   padding: 19px 0;
   background: #1c1818;
+  background-image: url(../img/background/bg-top.h.png);
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 
 .header-top_area .social_media_links {
