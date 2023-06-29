@@ -2175,6 +2175,32 @@ h3 {
   background-image: url(../img/banner/bradcam3.png);
 }
 
+.breadcam_bg_pw {
+  background-image: url(../img/banner/pw.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.breadcam_bg_oe {
+  background-image: url(../img/banner/oe.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.breadcam_bg_fw {
+  background-image: url(../img/banner/fw.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.breadcam_bg_de {
+  background-image: url(../img/banner/de.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
 .bradcam_area {
   background-position: center center;
   background-color: #16121D;
