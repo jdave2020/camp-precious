@@ -18,7 +18,7 @@
     <?php include('header.php'); ?>
     <!-- ***** Header Area End ***** -->
     <!-- bradcam_area_start -->
-    <div class="bradcam_area breadcam_bg">
+    <div class="bradcam_area breadcam_bg breadcam_bg_about">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
