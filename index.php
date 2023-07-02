@@ -158,7 +158,7 @@
 
                 <!-- Single Service Area -->
                 <div class="col-12 col-lg-6 p-0">
-                    <div class="single-service-area mb-80">
+                    <div class="single-service-area pw mb-80">
                         <!-- Service Icon -->
                         <div class="service-icon">
                             <i class="fa fa-map pt-3 mt-3"></i>
@@ -176,7 +176,7 @@
 
                 <!-- Single Service Area -->
                 <div class="col-12 col-lg-6 p-0">
-                    <div class="single-service-area service-2 mb-80">
+                    <div class="single-service-area service-2 fm mb-80">
                         <!-- Service Icon -->
                         <div class="service-icon">
                             <i class="fa fa-globe pt-3 mt-3"></i>
@@ -192,7 +192,7 @@
 
                 <!-- Single Service Area -->
                 <div class="col-12 col-lg-6 p-0">
-                    <div class="single-service-area service-2 mb-80">
+                    <div class="single-service-area service-2 oe mb-80">
                         <!-- Service Icon -->
                         <div class="service-icon">
                             <i class="fa fa-map pt-3 mt-3"></i>
@@ -208,7 +208,7 @@
 
                 <!-- Single Service Area -->
                 <div class="col-12 col-lg-6 p-0">
-                    <div class="single-service-area mb-80">
+                    <div class="single-service-area dt mb-80">
                         <!-- Service Icon -->
                         <div class="service-icon">
                             <i class="fa fa-globe pt-3 mt-3"></i>
