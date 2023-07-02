@@ -1114,8 +1114,7 @@ h3 {
   position: relative;
   z-index: 1;
   text-align: center;
-  border: 3px solid #033B5A;
-  background-image: url(../../../img/services/camp.svg);
+  border-bottom: 3px solid #033B5A;
   padding: 40px;
   background-color: #16121D;
 }
@@ -1158,7 +1157,6 @@ h3 {
 
 .single-service-area.service-2 {
   background-color: #8E0707;
-  background-image: none;
   border: none;
   border-bottom: 4px solid #8E0707;
 }
@@ -1182,6 +1180,30 @@ h3 {
 .single-service-area.service-2:focus h5,
 .single-service-area.service-2:hover h5 {
   color: #1583e9;
+}
+
+.single-service-area.pw {
+  background-image: url(../img/banner/home.pw.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.single-service-area.fm {
+  background-image: url(../img/banner/home.fm.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.single-service-area.oe {
+  background-image: url(../img/banner/home.oe.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.single-service-area.dt {
+  background-image: url(../img/banner/home.dt.png);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .cta-testimonial-cfa-area {
@@ -2195,6 +2217,18 @@ h3 {
 
 .breadcam_bg_de {
   background-image: url(../img/banner/de.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.breadcam_bg_about {
+  background-image: url(../img/banner/aboutus.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.breadcam_bg_donate {
+  background-image: url(../img/banner/donate.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
