@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300i,400,400i,600,700|Poppins:200,200i,300,300i,400,500,500i,600,700,800,900&display=swap");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css");
 
 /* Normal desktop :1200px. */
 /* Normal desktop :992px. */
@@ -1052,6 +1053,9 @@ h3 {
 .header-top_area {
   padding: 19px 0;
   background: #1c1818;
+  background-image: url(../img/background/bg-top.h.png);
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 
 .header-top_area .social_media_links {
@@ -1110,8 +1114,7 @@ h3 {
   position: relative;
   z-index: 1;
   text-align: center;
-  border: 3px solid #033B5A;
-  background-image: url(../../../img/services/camp.svg);
+  border-bottom: 3px solid #033B5A;
   padding: 40px;
   background-color: #16121D;
 }
@@ -1154,7 +1157,6 @@ h3 {
 
 .single-service-area.service-2 {
   background-color: #8E0707;
-  background-image: none;
   border: none;
   border-bottom: 4px solid #8E0707;
 }
@@ -1178,6 +1180,30 @@ h3 {
 .single-service-area.service-2:focus h5,
 .single-service-area.service-2:hover h5 {
   color: #1583e9;
+}
+
+.single-service-area.pw {
+  background-image: url(../img/banner/home.pw.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.single-service-area.fm {
+  background-image: url(../img/banner/home.fm.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.single-service-area.oe {
+  background-image: url(../img/banner/home.oe.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.single-service-area.dt {
+  background-image: url(../img/banner/home.dt.png);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .cta-testimonial-cfa-area {
@@ -2147,13 +2173,67 @@ h3 {
   opacity: 0.3;
 }
 
+.breadcam_bg_1::before {
+  content: ' ';
+  background-image: url(../../../img/banner/christian-core-values.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0.3;
+}
+
 .breadcam_bg_1 {
-  background-image: url(../img/banner/bradcam2.png);
+  background-image: url(../img/banner/camp.png);
+  background-repeat: no-repeat !important;
+  background-position: left !important;
 }
 
 .breadcam_bg_2 {
   background-image: url(../img/banner/bradcam3.png);
 }
+
+.breadcam_bg_pw {
+  background-image: url(../img/banner/pw.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.breadcam_bg_oe {
+  background-image: url(../img/banner/oe.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.breadcam_bg_fw {
+  background-image: url(../img/banner/fw.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.breadcam_bg_de {
+  background-image: url(../img/banner/de.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.breadcam_bg_about {
+  background-image: url(../img/banner/aboutus.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.breadcam_bg_donate {
+  background-image: url(../img/banner/donate.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
 
 .bradcam_area {
   background-position: center center;

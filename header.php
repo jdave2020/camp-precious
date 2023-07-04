@@ -13,7 +13,10 @@
                     <div class="col-lg-6 col-md-4 ">
                         <div class="social_media_links">
                             <a href="donate.php">
-                                <i class="fa fa-heart mr-1 text-danger"></i>Donate
+                                <i class="fa fa-heart mr-1 text-danger">
+                                    <img src="img/core-img/donate+button.png" alt="donate" style="width:auto; height:35px;">
+                                </i>
+                                <!-- Donate -->
                             </a>
                             <a href="https://www.facebook.com/camprecious22">
                                 <i class="fa fa-facebook"></i>
